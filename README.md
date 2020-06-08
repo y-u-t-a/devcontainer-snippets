@@ -1,2 +1,2 @@
 # vscode-playground
-VSCode の Remote Containers 機能を用いたプログラミングプレイグラウンド
+VSCode の Remote Containers の定義ファイルのスニペット
