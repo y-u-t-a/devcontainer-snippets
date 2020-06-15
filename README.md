@@ -1,6 +1,12 @@
 # devcontainer-snippets
 VSCode の Remote Containers の定義ファイルのスニペット
 
+## 使い方
+1. Remote Containers を使用するリポジトリのトップに `.devcontainer` ディレクトリを作成する
+1. `.devcontainer` 配下に、このリポジトリにある Remote Containers の定義ファイルをコピー
+1. Remote Containers を使用するリポジトリを VSCode で開く
+1. リモートエクスプローラーの `+` ボタンをクリックして `Open Current Folder in Container` を選択
+
 ## devcontainer.json Tips
 
 ### マウントモードを delegated にしてコンテナの書き込み速度を優先する
