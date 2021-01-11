@@ -4,6 +4,5 @@
 	"extensions": [
 		"ms-vscode.vscode-typescript-tslint-plugin"
 	],
-	"remote.containers.workspaceMountConsistency": "delegated",
 	"postCreateCommand": "npm install"
 }
