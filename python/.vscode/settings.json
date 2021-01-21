@@ -1,0 +1,8 @@
+{
+  "python.autoComplete.extraPaths":[
+    "/usr/local/lib/*/site-packages",
+    "./",
+  ],
+  "python.pythonPath": "/usr/local/bin/python",
+  "python.languageServer": "Microsoft",
+}
