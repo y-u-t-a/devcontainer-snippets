@@ -4,4 +4,12 @@
 	"extensions": [
 		"ms-python.python"
 	],
+	"settings": {
+		"python.autoComplete.extraPaths":[
+			"/usr/local/lib/*/site-packages",
+			"./",
+		],
+		"python.pythonPath": "/usr/local/bin/python3",
+		"python.languageServer": "Microsoft",
+	},
 }
